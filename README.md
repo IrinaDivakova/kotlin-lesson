@@ -1,2 +1,2 @@
-# Kotlin_3
+# kotin-lesson
 h.w._Kotlin
